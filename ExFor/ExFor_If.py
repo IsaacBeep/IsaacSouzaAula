@@ -3,4 +3,3 @@ meta = 100
 for venda in vendedores:
     if venda >= meta:
         print(venda)
-
